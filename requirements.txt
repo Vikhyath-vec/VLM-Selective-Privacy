@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+bitsandbytes
+Pillow
+protobuf
+sentencepiece
+matplotlib
+opencv-python
+numpy
+tqdm
+lpips  # For LPIPS perceptual loss
+pytorch-msssim  # For SSIM perceptual loss
+torchvision  # For VGG perceptual loss
